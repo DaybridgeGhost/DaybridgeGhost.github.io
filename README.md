@@ -1,2 +1,2 @@
 # DaybridgeGhost.github.io
-Website
+Website and stuff
